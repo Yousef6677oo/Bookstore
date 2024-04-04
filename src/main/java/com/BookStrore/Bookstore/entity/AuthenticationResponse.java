@@ -1,8 +1,8 @@
 package com.BookStrore.Bookstore.entity;
 
 public class AuthenticationResponse {
-    private String token;
-    private String message;
+    private final String token;
+    private final String message;
 
     public AuthenticationResponse(String token, String message) {
         this.token = token;

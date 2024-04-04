@@ -1,6 +1,5 @@
 package com.BookStrore.Bookstore.entity;
 
-
 import jakarta.persistence.*;
 
 @Entity
