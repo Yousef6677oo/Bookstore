@@ -1,7 +1,5 @@
 package com.BookStrore.Bookstore.entity;
 
-import com.BookStrore.Bookstore.entity.Token;
-import com.BookStrore.Bookstore.model.Role;
 import jakarta.persistence.*;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

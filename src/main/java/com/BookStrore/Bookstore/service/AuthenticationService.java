@@ -1,6 +1,6 @@
 package com.BookStrore.Bookstore.service;
 
-import com.BookStrore.Bookstore.model.AuthenticationResponse;
+import com.BookStrore.Bookstore.entity.AuthenticationResponse;
 import com.BookStrore.Bookstore.entity.Token;
 import com.BookStrore.Bookstore.entity.User;
 import com.BookStrore.Bookstore.repository.TokenRepository;

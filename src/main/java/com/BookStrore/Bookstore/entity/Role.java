@@ -1,4 +1,4 @@
-package com.BookStrore.Bookstore.model;
+package com.BookStrore.Bookstore.entity;
 
 public enum Role {
     USER,

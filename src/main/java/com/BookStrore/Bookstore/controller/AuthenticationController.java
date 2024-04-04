@@ -1,6 +1,6 @@
 package com.BookStrore.Bookstore.controller;
 
-import com.BookStrore.Bookstore.model.AuthenticationResponse;
+import com.BookStrore.Bookstore.entity.AuthenticationResponse;
 import com.BookStrore.Bookstore.entity.User;
 import com.BookStrore.Bookstore.service.AuthenticationService;
 import org.springframework.http.ResponseEntity;
